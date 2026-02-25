@@ -13,8 +13,13 @@ I'm a **Frontend Developer** focused on building modern, responsive, and user-fr
 ---
 
 ### 🔭 Currently Working On
-- Building UI components and Projects at RadiusTheme
-- Improving React and TypeScript skills
+- Developing frontend UI components and widgets with Next.js
+- Building data-driven features using PostgreSQL
+- Improving performance, accessibility, and code quality
+
+---
+
+
 ## 🛠️ Tech Stack
 **Languages & Tools**
 - JavaScript (ES6+)
