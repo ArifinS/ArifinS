@@ -12,12 +12,17 @@ I'm a **Frontend Developer** focused on building modern, responsive, and user-fr
 
 ---
 
+### 🔭 Currently Working On
+- Building UI components and Projects at RadiusTheme
+- Improving React and TypeScript skills
 ## 🛠️ Tech Stack
 **Languages & Tools**
 - JavaScript (ES6+)
 - TypeScript
 - HTML5 / CSS3
 - Git & GitHub
+  
+---
 
 **Frameworks & Libraries**
 - React
@@ -31,7 +36,7 @@ I'm a **Frontend Developer** focused on building modern, responsive, and user-fr
 
 ## 💼 Experience
 **Frontend Developer** — RadiusTheme  
-*Feb 2026 – Present*
+2023 – Present
 - Developing and maintaining modern UI components and themes
 - Converting designs into responsive, pixel-perfect interfaces
 - Collaborating with designers and backend developers
